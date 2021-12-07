@@ -19,9 +19,9 @@
 # Результат 
  
 16 место из 355 участников
+* [Ссылка на Лидерборд](https://dsbattle.com/hackathons/mkb/)
 
 
 # Решение 
 
-* [Ссылка на Лидерборд](https://dsbattle.com/hackathons/mkb/)
 * [Приложенный Jupyter Notebook](Hackathon_mkb.ipynb)
